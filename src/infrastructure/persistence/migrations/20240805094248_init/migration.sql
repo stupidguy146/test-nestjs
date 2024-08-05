@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Member" ADD COLUMN     "date_updated" TIMESTAMP(3) NOT NULL DEFAULT CURRENT_TIMESTAMP;
